@@ -1,0 +1,22 @@
+* { 
+    font-family: century gothic;
+    
+}
+
+h1 {
+    text-align: center;
+    font-weight: 900;
+}
+
+
+.list {
+	background-color: #ffdf00;
+    text-align: left;
+    border-radius: 15px;
+}
+
+.ref2 {
+   
+	color: #000080;
+	font-weight: 900;
+}
